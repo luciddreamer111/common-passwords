@@ -9,7 +9,7 @@ To use this repository, simply clone or download the repository to your local ma
 Note that the words.txt file is provided as-is, and no guarantees are made regarding its accuracy, completeness, or suitability for any particular purpose. You are free to use the words in any way you see fit.
 
 # Contributing
-Contributions to this repository are welcome and appreciated. If you have suggestions for improvements, additions, or corrections to the word list, please feel free to submit a pull request or open an issue. All contributions will be reviewed and considered for inclusion in the repository.
+Contributions to this repository are welcome and appreciated. If you have suggestions for improvements, additions, or corrections to the word list, please feel free to submit a pull request or open an issue. All contributions will be reviewed and considered for inclusion in the repository, if I have the time.
 
 # License
-I don't really care what you do with this, I won't do anything about it.
+You are free to do whatever you want with this. Use it, thats why I published it.
